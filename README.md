@@ -1,8 +1,11 @@
-# Kubernetes Journey
+## Homelab
+Point is to setup servers at home. Hopefully, I get to learn some networking and have fun along the way.
+
+## Kubernetes Journey
 - Learning Kubernetes by home labbing. The end goal is to deploy and maintain Kubernetes clusters at home - I plan on using old machines (2 laptops and a mini PC) at home; to repurpose these machines to servers and maintain them. To best use Kubernetes, I need to solidify my foundations on specific topics or concepts. These are listed below (they are not listed in any order).
 - Tools and topics are what I believe I'll need to achieve my goal
 
-## Topics
+### Topics
 - Linux
    - [Linux Journey](https://labex.io/linuxjourney)
    - [Linux Snapshots](https://linuxvox.com/blog/how-to-take-snapshot-in-linux/)
