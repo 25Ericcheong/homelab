@@ -43,6 +43,7 @@ Point is to setup servers at home. Hopefully, I get to learn some networking and
 - Tailscale
 - OPNsense
 - Proxmox + Terraform (to create VMs or reproduce any creation) via CLI
+- [Kind](https://www.youtube.com/shorts/6vRKybq3330) (spin up K8 in container)
 
 ## Other Journeys
 - [An over-engineered Home Lab with Docker and Kubernetes](https://fernandocejas.com/blog/engineering/2023-01-06-over-engineered-home-lab-docker-kubernetes/)
