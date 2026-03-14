@@ -30,7 +30,8 @@ Point is to setup servers at home. Hopefully, I get to learn some networking and
 - Homelab
   - Coax to ethernet device
   - Deco mesh WiFi
-  - Switch 
+  - Switch
+  - Headless laptop
 
 ## Tools
 - K3s
